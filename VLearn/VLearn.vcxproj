@@ -145,10 +145,12 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="vk_engine.cpp" />
+    <ClCompile Include="vk_images.cpp" />
     <ClCompile Include="vk_initializers.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="vk_engine.h" />
+    <ClInclude Include="vk_images.h" />
     <ClInclude Include="vk_initializers.h" />
     <ClInclude Include="vk_types.h" />
   </ItemGroup>
